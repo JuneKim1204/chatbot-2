@@ -1,10 +1,10 @@
 import streamlit as st
 import openai
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 import os
 
 # 환경 변수 불러오기 (.env 사용 시)
-#load_dotenv()
+# load_dotenv()
 
 # 앱 제목 및 설명
 st.title("💬 June's 이것저것 - 고민상담소")
