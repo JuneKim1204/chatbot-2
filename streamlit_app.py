@@ -7,7 +7,7 @@ st.write(
     "이 챗봇은 OpenAI의 GPT-3.5 모델을 기반으로 작동하는 작은 고민상담소입니다."
     "누구나 마음속에 담아둔 이야기, 말하지 못한 고민이 있잖아요."
     "이곳에서는 그런 이야기를 편하게 나눌 수 있어요. 😊"
-    ""
+    "간단히 OpenAI API키만 입력하면 바로 이용하실 수 있어요."
 )
 
 # Ask user for their OpenAI API key via `st.text_input`.
